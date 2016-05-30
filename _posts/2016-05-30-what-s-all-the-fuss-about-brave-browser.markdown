@@ -45,6 +45,5 @@ It’s important to note that currently there is no official release for Brave a
 
 ## References
 
-[PageFair reference](https://blog.pagefair.com/2015/ad-blocking-report/)
-
-[PageFair PDF study results](http://downloads.pagefair.com/reports/2015_report-the_cost_of_ad_blocking.pdf)
+* [PageFair reference](https://blog.pagefair.com/2015/ad-blocking-report/)
+* [PageFair PDF study results](http://downloads.pagefair.com/reports/2015_report-the_cost_of_ad_blocking.pdf)
