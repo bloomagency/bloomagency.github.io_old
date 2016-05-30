@@ -3,7 +3,7 @@ published: true
 title: What’s all the fuss about Brave browser?
 layout: post
 ---
-![alt text][logo]
+![alt text](http://www.bloomagency.co.uk/wp-content/uploads/2016/02/Brave.jpg "Brave browser")
 
 A new browser has emerged into the digital world and has slowly been picking up quite a bit of attention. It’s generally quite hard for new browsers to make a noticeable impact online due to the popularity of rivals like; Chrome, Firefox, Safari and Opera to name a few.
 
@@ -47,5 +47,3 @@ It’s important to note that currently there is no official release for Brave a
 
 PageFair reference – https://blog.pagefair.com/2015/ad-blocking-report/
 PageFair PDF study results – http://downloads.pagefair.com/reports/2015_report-the_cost_of_ad_blocking.pdf
-
-[header]: http://www.bloomagency.co.uk/wp-content/uploads/2016/02/Brave.jpg "Brave browser"
