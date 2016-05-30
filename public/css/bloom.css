@@ -14,3 +14,12 @@ body {
 .lead {
 	color: rgba(255,255,255,.75);
 }
+
+.page, .post {
+	margin-bottom: 3rem;
+}
+
+ul, ol {
+  padding-left: 0;
+  margin-left: 1rem;
+}
