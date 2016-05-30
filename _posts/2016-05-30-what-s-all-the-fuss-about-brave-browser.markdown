@@ -21,7 +21,7 @@ Rather than having to download some form of extension or add-on, Brave incorpora
 
 Brave’s custom ad-blocking options
 
-##What’s the drawback then?
+## What’s the drawback then?
 
 So far, Brave sounds brilliant but there are some significant issues that could halt its progression. Brave currently doesn’t support Flash player and by the looks of it they don’t have any plans on introducing it – Firefox and Chrome are also phasing out support. Since a massive amount of websites still rely on Flash, despite its declining position, it’s still difficult to rule it out. It means that websites like 4oD and Twitch, which both run on flash, are practically unusable.
 
