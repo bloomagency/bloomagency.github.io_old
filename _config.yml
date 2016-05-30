@@ -1,0 +1,8 @@
+excerpt_separator: ""
+pygments: true
+markdown: kramdown
+url: http://bloomagency.github.io
+title: Bloom Agency
+tagline: Always Discovering
+description: Always Discovering
+paginate: 5
