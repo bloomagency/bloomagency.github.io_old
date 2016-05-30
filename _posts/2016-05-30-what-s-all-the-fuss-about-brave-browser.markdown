@@ -2,6 +2,7 @@
 published: true
 title: What’s all the fuss about Brave browser?
 layout: post
+permalink: whats-all-the-fuss-about-brave-browser
 ---
 A new browser has emerged into the digital world and has slowly been picking up quite a bit of attention. It’s generally quite hard for new browsers to make a noticeable impact online due to the popularity of rivals like; Chrome, Firefox, Safari and Opera to name a few.
 
